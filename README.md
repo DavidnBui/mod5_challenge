@@ -2,4 +2,8 @@
 
 This git hub repository includes...
 
--Pymaceuticals, Inc.
+-Pymaceuticals, Inc. Jupyter notebook
+
+-Datasets used in Pymaceuticals, Inc. 
+
+-An analysis and conclusion on the data
